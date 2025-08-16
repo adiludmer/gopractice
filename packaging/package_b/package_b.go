@@ -5,5 +5,5 @@ import (
 )
 
 func B() {
-	package_a.A()
+	package_a.A("arg")
 }
